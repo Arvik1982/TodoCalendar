@@ -13,7 +13,8 @@
 - ✅ Drag & Drop (planned)
 
 ## 🚀 **Запуск**
-git clone https://github.com/Arvik1982/TodoCalendar.git
-cd TodoCalendar
-npm install
-npm run dev
+- git clone
+  https://github.com/Arvik1982/TodoCalendar.git
+- cd TodoCalendar
+- npm install
+- npm run dev
