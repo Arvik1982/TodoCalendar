@@ -12,7 +12,7 @@
 - ✅ Responsive дизайн
 - ✅ Drag & Drop (planned)
 
-## 🚀 **Запуск за 30 секунд**
+## 🚀 **Запуск**
 git clone https://github.com/Arvik1982/TodoCalendar.git
 cd TodoCalendar
 npm install
